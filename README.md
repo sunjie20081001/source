@@ -6,3 +6,4 @@
 >　超级简单的bootstrap WYSIWYG编辑器
 
 地址：<a href="summernote/">本地地址</a>　<a href="http://summernote.org/">官网地址</a>
+<a href="https://github.com/summernote/summernote">github地址</a>
